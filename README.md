@@ -2,7 +2,7 @@
 
 ### About me
 
-I'm Kirishanth Rajaraj, a 17 years old software engineering student and i really like to code.
+I'm Kirishanth Rajaraj, a 17 year old software engineering student and i really like to code.
 I'm just at the beginning of my career but i'm always ready to experiment and explore in this vast world of programming.
 
 ### Stats
